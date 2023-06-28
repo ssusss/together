@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>Together App</h1>
-	
+	<a hreg="<%=request.getContextPath() %>/afteryoon">afteryoon</a>
 </body>
 </html>
