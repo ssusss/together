@@ -8,9 +8,7 @@
 </head>
 <body>
 	<h1>Together App</h1>
-
-	<a hreg="<%=request.getContextPath() %>/afteryoon">afteryoon</a>
+	<a href="<%=request.getContextPath() %>/afteryoon">수정</a>
 	
-
 </body>
 </html>
