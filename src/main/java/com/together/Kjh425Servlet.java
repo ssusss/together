@@ -19,7 +19,11 @@ public class Kjh425Servlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append("Served at: ").append("Hello, kjh425");
+		response.getWriter().append("Served at: ").append("Hello, kjh425 안녕 난 준한이 ㅎㅎ");
 	}
 
 }
+
+
+
+
