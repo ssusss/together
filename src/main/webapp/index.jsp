@@ -50,8 +50,6 @@
 	<a hreg="<%=request.getContextPath() %>/afteryoon">afteryoon</a>
 	<a hreg="<%=request.getContextPath() %>/afteryoon">afteryoon</a>
 	<a hreg="<%=request.getContextPath() %>/afteryoon">afteryoon</a>
-	<a hreg="<%=request.getContextPath() %>/afteryoon">afteryoon</a>
-	<a hreg="<%=request.getContextPath() %>/afteryoon">afteryoon</a>
 
 </body>
 </html>
